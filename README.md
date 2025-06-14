@@ -23,7 +23,7 @@ Welcome to the **Monty Hall Challenge**, a sleek, animated, and educational web 
 ```
 monty-hall-challenge/
 ├── assets/
-│   └── index-CnJ8A_AE.js   # Compiled React frontend
+│   └── index-C1SB2EqO.js   # Compiled React frontend
 ├── index.html              # Entry point (uses Tailwind & React)
 ├── Run.py                  # Python script to launch the server with live reload
 ```
