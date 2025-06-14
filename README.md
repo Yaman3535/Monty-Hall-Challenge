@@ -33,7 +33,7 @@ monty-hall-challenge/
 ### Prerequisites
 
 * Python 3.7+
-* Node.js & React (only if rebuilding frontend)
+* Node.js & React
 * Install `watchdog`:
 
 ```bash
