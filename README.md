@@ -1,7 +1,3 @@
-Here's a professional and visually engaging `README.md` for your GitHub repository based on the provided files, featuring badge icons and organized sections:
-
----
-
 # 🎯 Monty Hall Challenge – Interactive Web App
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Built with Python](https://img.shields.io/badge/built%20with-Python-blue)](Run.py) [![Powered by React](https://img.shields.io/badge/powered%20by-React-61dafb.svg)](https://react.dev)
