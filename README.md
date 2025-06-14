@@ -1,5 +1,7 @@
 # 🎯 Monty Hall Challenge – Interactive Web App
 
+![dev-starter Chat Demo](https://raw.githubusercontent.com/LMLK-seal/Monty-Hall-Challenge/refs/heads/main/MHC.jpg)
+
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Built with Python](https://img.shields.io/badge/built%20with-Python-blue)](Run.py) [![Powered by React](https://img.shields.io/badge/powered%20by-React-61dafb.svg)](https://react.dev)
 
 Welcome to the **Monty Hall Challenge**, a sleek, animated, and educational web app that simulates the famous Monty Hall problem. Designed with React + TailwindCSS and served via a Python backend, it lets users explore the counterintuitive probabilities behind this iconic game show scenario.
